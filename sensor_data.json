@@ -1,0 +1,13 @@
+[
+    "Log for IoT devices:",
+    "2023-11-11 20:26:12.828165: Front Door Security Camera on",
+    "2023-11-11 20:26:14.669012: Living Room light on",
+    "2023-11-11 20:26:15.429524: Living Room light off",
+    "New Motion detected on Front Door Security Camera\nLights are turned on",
+    "2023-11-11 20:26:18.932326: Living Room Temperature on",
+    "2023-11-11 20:26:21.646480: Living Room light off",
+    "2023-11-11 20:26:23.761538: Temperature changed to 25",
+    "Motion removed on Front Door Security Camera",
+    "2023-11-11 20:26:37.894033: Living Room light off",
+    "New Motion detected on Front Door Security Camera\nLights are turned on"
+]
